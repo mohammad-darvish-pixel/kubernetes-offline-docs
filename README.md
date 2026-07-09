@@ -6,19 +6,19 @@ This repository contains an organized offline collection of the official Kuberne
 
 ## 📖 Concepts
 
-- 📄 [Overview](Concepts/Overview_%20_Kubernetes.pdf)
-- 📄 [Cluster Architecture](Concepts/Cluster%20Architecture_%20_Kubernetes.pdf)
-- 📄 [Containers](Concepts/Containers_%20_Kubernetes.pdf)
-- 📄 [Workloads](Concepts/Workloads_%20_Kubernetes.pdf)
+- 📄 [Overview](Concepts/Overview%20_Kubernetes.pdf)
+- 📄 [Cluster Architecture](Concepts/Cluster%20Architecture%20_Kubernetes.pdf)
+- 📄 [Containers](Concepts/Containers%20_Kubernetes.pdf)
+- 📄 [Workloads](Concepts/Workloads%20_Kubernetes.pdf)
 - 📄 [Services, Load Balancing & Networking](Concepts/Services,%20Load%20Balancing,%20and%20Networking...pdf)
-- 📄 [Storage](Concepts/Storage_%20_Kubernetes.pdf)
-- 📄 [Configuration](Concepts/Configuration_%20_Kubernetes.pdf)
-- 📄 [Security](Concepts/Security_%20_Kubernetes.pdf)
-- 📄 [Policies](Concepts/Policies_%20_Kubernetes.pdf)
+- 📄 [Storage](Concepts/Storage%20_Kubernetes.pdf)
+- 📄 [Configuration](Concepts/Configuration%20_Kubernetes.pdf)
+- 📄 [Security](Concepts/Security%20_Kubernetes.pdf)
+- 📄 [Policies](Concepts/Policies%20_Kubernetes.pdf)
 - 📄 [Scheduling, Preemption and Eviction](Concepts/Scheduling,%20Preemption%20and%20Eviction...pdf)
-- 📄 [Cluster Administration](Concepts/Cluster%20Administration_%20_Kubernetes.pdf)
-- 📄 [Windows in Kubernetes](Concepts/Windows%20in%20Kubernetes_%20_Kubernetes.pdf)
-- 📄 [Extending Kubernetes](Concepts/Extending%20Kubernetes_%20_Kubernetes.pdf)
+- 📄 [Cluster Administration](Concepts/Cluster%20Administration%20_Kubernetes.pdf)
+- 📄 [Windows in Kubernetes](Concepts/Windows%20in%20Kubernetes%20_Kubernetes.pdf)
+- 📄 [Extending Kubernetes](Concepts/Extending%20Kubernetes%20_Kubernetes.pdf)
 
 ---
 
